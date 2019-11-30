@@ -1,5 +1,8 @@
 package lt.configure;
 
+import org.o7planning.javafx.model.Gender;
+import org.o7planning.javafx.model.Person;
+
 import javafx.application.Application;
 import javafx.beans.property.SimpleBooleanProperty;
 import javafx.beans.property.SimpleObjectProperty;
@@ -23,8 +26,6 @@ import javafx.scene.control.cell.TextFieldTableCell;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 import javafx.util.Callback;
-import org.o7planning.javafx.model.Gender;
-import org.o7planning.javafx.model.Person;
 
 public class TableViewEditDemo extends Application {
 
