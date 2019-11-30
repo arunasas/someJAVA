@@ -1,8 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3649e844-123c-469a-ad99-59c17fb455a7" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="3649e844-123c-469a-ad99-59c17fb455a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/lt/configure/SomeTool.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/lt/configure/SomeTool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/configure/SomeTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/configure/SomeTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-8-tableview-sorting-filtering/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javafx-8-tableview-sorting-filtering/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/HostsAliveCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/IPLister.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/JschExec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/LocalHostAndIp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/SomeTool$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/SomeTool$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/SomeTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/TableViewHelp$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/TableViewHelp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/TableViewHelp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/TableViewHelp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/src/main/java/lt/configure/HostsAliveCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/src/main/java/lt/configure/IPLister.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/src/main/java/lt/configure/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/src/main/java/lt/configure/JschExec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/src/main/java/lt/configure/LocalHostAndIp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/src/main/java/lt/configure/SomeTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/src/main/java/lt/configure/TableViewHelp.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,27 +73,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1TienEBvbKDXnRhNtpKUFujbyD9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Application.SomeTool">
     <configuration name="IPLister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="lt.configure.IPLister" />
-      <module name="SomeTool.main" />
+      <module name="IdeaProjects.SomeTool.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lt.configure.*" />
@@ -65,8 +118,10 @@
       </method>
     </configuration>
     <configuration name="SomeTool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="lt.configure.SomeTool" />
-      <module name="SomeTool.main" />
+      <module name="IdeaProjects.SomeTool.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lt.configure.*" />
@@ -77,6 +132,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.IPLister" />
+      <item itemvalue="Application.SomeTool" />
+      <item itemvalue="Application.SSHCommandExecutor" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.IPLister" />
@@ -84,6 +144,18 @@
         <item itemvalue="Application.SomeTool" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -97,5 +169,43 @@
       <updated>1573947507926</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="336" y="150" key="#SSHCommandExecutor" timestamp="1575128654787">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state x="336" y="150" key="#SSHCommandExecutor/0.0.1280.988@0.0.1280.988" timestamp="1575128654787" />
+    <state x="336" y="150" key="#SomeTool" timestamp="1575128640322">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state x="336" y="150" key="#SomeTool/0.0.1280.988@0.0.1280.988" timestamp="1575128640322" />
+    <state x="99" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575128700383">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state x="99" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.988@0.0.1280.988" timestamp="1575128700383" />
+    <state x="378" y="253" key="EnvironmentVariablesDialog" timestamp="1575128694360">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state x="378" y="253" key="EnvironmentVariablesDialog/0.0.1280.988@0.0.1280.988" timestamp="1575128694360" />
+    <state x="423" y="237" key="FileChooserDialogImpl" timestamp="1575128686813">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state x="423" y="237" key="FileChooserDialogImpl/0.0.1280.988@0.0.1280.988" timestamp="1575128686813" />
+    <state width="617" height="255" key="GridCell.Tab.0.bottom" timestamp="1575129283176">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state width="617" height="255" key="GridCell.Tab.0.bottom/0.0.1280.988@0.0.1280.988" timestamp="1575129283176" />
+    <state width="617" height="255" key="GridCell.Tab.0.center" timestamp="1575129283176">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state width="617" height="255" key="GridCell.Tab.0.center/0.0.1280.988@0.0.1280.988" timestamp="1575129283176" />
+    <state width="617" height="255" key="GridCell.Tab.0.left" timestamp="1575129283175">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state width="617" height="255" key="GridCell.Tab.0.left/0.0.1280.988@0.0.1280.988" timestamp="1575129283175" />
+    <state width="617" height="255" key="GridCell.Tab.0.right" timestamp="1575129283176">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state width="617" height="255" key="GridCell.Tab.0.right/0.0.1280.988@0.0.1280.988" timestamp="1575129283176" />
   </component>
 </project>

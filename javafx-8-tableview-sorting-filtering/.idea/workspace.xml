@@ -1,13 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b8c067e-2e43-4cdf-a05d-fd382a2db04e" name="Default Changelist" comment="" />
+    <list default="true" id="4b8c067e-2e43-4cdf-a05d-fd382a2db04e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/HostsAliveCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/IPLister.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/JschExec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/LocalHostAndIp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/SomeTool$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/SomeTool$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/SomeTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/TableViewHelp$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/TableViewHelp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/TableViewHelp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/build/classes/java/main/lt/configure/TableViewHelp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/src/main/java/lt/configure/HostsAliveCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/src/main/java/lt/configure/IPLister.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/src/main/java/lt/configure/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/src/main/java/lt/configure/JschExec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/src/main/java/lt/configure/LocalHostAndIp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/src/main/java/lt/configure/SomeTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../someTool/src/main/java/lt/configure/TableViewHelp.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UL7LFuh4jVgJpY5HmiTbvtYzQO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,7 +62,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SomeTool" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
@@ -52,9 +99,9 @@
       <screen x="0" y="0" width="1280" height="988" />
     </state>
     <state x="479" y="374" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.988@0.0.1280.988" timestamp="1575124381257" />
-    <state x="396" y="273" width="432" height="487" key="FileChooserDialogImpl" timestamp="1575124005338">
+    <state x="396" y="273" width="432" height="487" key="FileChooserDialogImpl" timestamp="1575128435006">
       <screen x="0" y="0" width="1280" height="988" />
     </state>
-    <state x="396" y="273" width="432" height="487" key="FileChooserDialogImpl/0.0.1280.988@0.0.1280.988" timestamp="1575124005338" />
+    <state x="396" y="273" width="432" height="487" key="FileChooserDialogImpl/0.0.1280.988@0.0.1280.988" timestamp="1575128435006" />
   </component>
 </project>

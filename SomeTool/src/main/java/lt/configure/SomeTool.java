@@ -99,7 +99,7 @@ public class SomeTool extends Application {
         timeOutField.setValue(100);
         pane.addRow(rI++, new Label("User SSH:"), userSSH);
         pane.addRow(rI++, new Label("Password SSH:"), passwordSSH);
-        pane.addRow(rI++, new Label("SSH Command:"), sshCommandField);
+        pane.addRow(rI++, new Label("Command SSH:"), sshCommandField);
 
         // Create the Add Button and add Event-Handler
         Button startButton = new Button("Start");
