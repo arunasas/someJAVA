@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fea8826-bc79-42ee-af42-dd23bfd4bb55" name="Default Changelist" comment="" />
+    <list default="true" id="7fea8826-bc79-42ee-af42-dd23bfd4bb55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,15 +23,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1TSm5mNRTVe7VvSsOxN3x0ukNtx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SomeTool" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
@@ -43,7 +52,7 @@
       <recent name="C:\Users\au\IdeaProjects\MonitoringTool\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MonitoringTool">
+  <component name="RunManager" selected="Application.MainTest">
     <configuration name="GuiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lt.configure.GuiTest" />
       <module name="MonitoringTool.main" />
@@ -143,5 +152,23 @@
       <updated>1573461689412</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575136596009">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state x="95" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.988@0.0.1280.988" timestamp="1575136596009" />
+    <state x="360" y="353" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575136595295">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state x="360" y="353" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.988@0.0.1280.988" timestamp="1575136595295" />
+    <state x="420" y="247" key="FileChooserDialogImpl" timestamp="1575136617053">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state x="420" y="247" key="FileChooserDialogImpl/0.0.1280.988@0.0.1280.988" timestamp="1575136617053" />
+    <state x="120" y="66" key="SettingsEditor" timestamp="1575136559800">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state x="120" y="66" key="SettingsEditor/0.0.1280.988@0.0.1280.988" timestamp="1575136559800" />
   </component>
 </project>

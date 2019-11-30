@@ -2,38 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3649e844-123c-469a-ad99-59c17fb455a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../JavaFXTableViewCheckBox/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaFXTableViewCheckBox/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFXTableViewCheckBox/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFXTableViewCheckBox/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaFXTableViewCheckBox/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFXTableViewCheckBox/src/main/java/lt/configure/TableViewEditDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaFXTableViewCheckBox/src/main/java/lt/configure/TableViewEditDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitoringTool/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitoringTool/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SomeTool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MonitoringTool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MonitoringTool/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/lt/configure/SomeTool.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/lt/configure/SomeTool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/configure/SomeTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/configure/SomeTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableView/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../TableView/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableView/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../TableView/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableView/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../TableView/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableView/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../TableView/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableView/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableView/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TableView/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../database/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../database/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../database/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gui-test3/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gui-test3/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gui-test3/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gui-test3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gui-test3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-8-tableview-sorting-filtering/.idea/javafx-8-tableview-sorting-filtering.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-8-tableview-sorting-filtering/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-8-tableview-sorting-filtering/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-8-tableview-sorting-filtering/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,39 +37,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/someJAVA-master/SomeTool" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Application.SomeTool">
-    <configuration name="IPLister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.configure.IPLister" />
-      <module name="SomeTool.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lt.configure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SSHCommandExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.configure.SSHCommandExecutor" />
-      <module name="SomeTool.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lt.configure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="SomeTool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lt.configure.SomeTool" />
       <module name="SomeTool.main" />
@@ -111,8 +61,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IPLister" />
-        <item itemvalue="Application.SSHCommandExecutor" />
         <item itemvalue="Application.SomeTool" />
       </list>
     </recent_temporary>
@@ -143,10 +91,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="427" y="253" width="432" height="487" key="FileChooserDialogImpl" timestamp="1575136153008">
+    <state x="95" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575137225386">
       <screen x="0" y="0" width="1280" height="988" />
     </state>
-    <state x="427" y="253" width="432" height="487" key="FileChooserDialogImpl/0.0.1280.988@0.0.1280.988" timestamp="1575136153008" />
+    <state x="95" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.988@0.0.1280.988" timestamp="1575137225386" />
+    <state x="276" y="89" key="CommitChangelistDialog2" timestamp="1575137337485">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state x="276" y="89" key="CommitChangelistDialog2/0.0.1280.988@0.0.1280.988" timestamp="1575137337485" />
+    <state x="427" y="253" width="432" height="487" key="FileChooserDialogImpl" timestamp="1575136745482">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state x="427" y="253" width="432" height="487" key="FileChooserDialogImpl/0.0.1280.988@0.0.1280.988" timestamp="1575136745482" />
     <state width="598" height="239" key="GridCell.Tab.0.bottom" timestamp="1575135405758">
       <screen x="0" y="0" width="1280" height="988" />
     </state>
@@ -163,9 +119,17 @@
       <screen x="0" y="0" width="1280" height="988" />
     </state>
     <state width="598" height="239" key="GridCell.Tab.0.right/0.0.1280.988@0.0.1280.988" timestamp="1575135405758" />
-    <state x="127" y="72" key="SettingsEditor" timestamp="1575135804205">
+    <state x="227" y="344" key="Performance.Activity.Monitor" timestamp="1575136983805">
       <screen x="0" y="0" width="1280" height="988" />
     </state>
-    <state x="127" y="72" key="SettingsEditor/0.0.1280.988@0.0.1280.988" timestamp="1575135804205" />
+    <state x="227" y="344" key="Performance.Activity.Monitor/0.0.1280.988@0.0.1280.988" timestamp="1575136983805" />
+    <state x="127" y="72" key="SettingsEditor" timestamp="1575136803682">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state x="127" y="72" key="SettingsEditor/0.0.1280.988@0.0.1280.988" timestamp="1575136803682" />
+    <state x="321" y="320" key="com.intellij.ide.util.TipDialog" timestamp="1575137122650">
+      <screen x="0" y="0" width="1280" height="988" />
+    </state>
+    <state x="321" y="320" key="com.intellij.ide.util.TipDialog/0.0.1280.988@0.0.1280.988" timestamp="1575137122650" />
   </component>
 </project>
